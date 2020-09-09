@@ -69,7 +69,7 @@ IGDWAN STATE28	is working!
 IGDDSL STATE15	is working!
 IGDIP STATE48	is working!
 NewModelName FRITZ!Box 6490 Cable (kdg)
-NewSoftwareVersion 141.06.87
+NewSoftwareVersion 141.07.12
 ```
 Update on 2020/01/16:
 ```
@@ -87,6 +87,23 @@ IGDDSL STATE    is working!
 IGDIP STATE     is working!
 NewModelName FRITZ!Box 7590
 NewSoftwareVersion 154.07.12 
+```
+Update on 2020/09/06:
+```
+WLAN_2G STATISTICS    is working!
+WLAN_2G STATE    is working!
+WLAN_5G STATISTICS    is working!
+WLAN_2G STATE    is working!
+WLAN STATE    is working!
+LAN STATE    is working!
+DSL STATE    is not working!
+WAN STATE    is working!
+LINK STATE    is not working!
+IGDWAN STATE    is working!
+IGDDSL STATE    is working!
+IGDIP STATE    is working!
+NewModelName FRITZ!Box 6591 Cable
+NewSoftwareVersion 161.07.21 
 ```
 
 ## External Links
